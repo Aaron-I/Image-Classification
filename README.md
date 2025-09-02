@@ -6,11 +6,14 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-Include the Problem Statement and Dataset.
+**Problem Statement:** Build, train, and evaluate a CNN that classifies natural images into one of 10 categories. Produce training curves, a confusion matrix, a classification report, and demonstrate predictions on new images.
+
+
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="1508" height="614" alt="image" src="https://github.com/user-attachments/assets/4af65bf4-fc5b-48e4-96cc-e06d99827c29" />
+
 
 ## DESIGN STEPS
 
