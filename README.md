@@ -20,7 +20,7 @@ To Develop a convolutional deep neural network for image classification and to v
 Define the objective of classifying handwritten digits (0-9) using a Convolutional Neural Network (CNN).
 
 ### STEP 2:Dataset Collection
-Use the MNIST dataset, which contains 60,000 training images and 10,000 test images of handwritten digits.
+Use the FashionMNIST dataset, which contains 60,000 training images and 10,000 test images of handwritten digits.
 ### STEP 3: Data Preprocessing
 Convert images to tensors, normalize pixel values, and create DataLoaders for batch processing.
 ### STEP 4:Model Architecture
